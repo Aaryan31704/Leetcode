@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aaryan31704/Leetcode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/Aaryan31704/Leetcode/tree/master/0605-can-place-flowers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aaryan31704/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1929-concatenation-of-array](https://github.com/Aaryan31704/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Aaryan31704/Leetcode/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Aaryan31704/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
