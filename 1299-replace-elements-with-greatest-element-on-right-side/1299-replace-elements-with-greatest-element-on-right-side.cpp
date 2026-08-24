@@ -1,14 +1,12 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
+        
+        int n = arr.size();
+        if(n == 1)
+            return {-1};
 
-        if(arr.size() == 1){
-            arr[0] = -1;
-            return arr;
-        }
-        
-        
-        int i = arr.size() - 1;
+        int i = n - 1;
         int max_val = arr[i];
         arr[i--] = -1;
 
@@ -17,7 +15,7 @@ public:
             arr[i--] = max_val;
             max_val = max(orr, max_val);
         }
+
         return arr;
-        
     }
 };
