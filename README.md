@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aaryan31704/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Aaryan31704/Leetcode/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Aaryan31704/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
