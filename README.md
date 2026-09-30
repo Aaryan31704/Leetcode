@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aaryan31704/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aaryan31704/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aaryan31704/Leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Aaryan31704/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aaryan31704/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan31704/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaryan31704/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aaryan31704/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aaryan31704/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aaryan31704/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Aaryan31704/Leetcode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aaryan31704/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aaryan31704/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
