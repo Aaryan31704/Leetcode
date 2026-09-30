@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aaryan31704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aaryan31704/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaryan31704/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Aaryan31704/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aaryan31704/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aaryan31704/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/Aaryan31704/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aaryan31704/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aaryan31704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aaryan31704/Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Aaryan31704/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aaryan31704/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aaryan31704/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
