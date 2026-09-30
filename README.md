@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aaryan31704/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Aaryan31704/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aaryan31704/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aaryan31704/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aaryan31704/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aaryan31704/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan31704/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aaryan31704/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aaryan31704/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aaryan31704/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aaryan31704/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aaryan31704/Leetcode/tree/master/0077-combinations) |
 ## Sliding Window
 |  |
