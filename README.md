@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aaryan31704/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Aaryan31704/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aaryan31704/Leetcode/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0946-validate-stack-sequences](https://github.com/Aaryan31704/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aaryan31704/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aaryan31704/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aaryan31704/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Aaryan31704/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Aaryan31704/Leetcode/tree/master/0441-arranging-coins) |
+| [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aaryan31704/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aaryan31704/Leetcode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
