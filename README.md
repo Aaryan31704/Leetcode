@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Aaryan31704/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aaryan31704/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aaryan31704/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Aaryan31704/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aaryan31704/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aaryan31704/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Aaryan31704/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aaryan31704/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Aaryan31704/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Aaryan31704/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -135,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Aaryan31704/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aaryan31704/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
