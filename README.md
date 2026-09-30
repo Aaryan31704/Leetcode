@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aaryan31704/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aaryan31704/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aaryan31704/Leetcode/tree/master/0392-is-subsequence) |
+| [2390-removing-stars-from-a-string](https://github.com/Aaryan31704/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Aaryan31704/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/Aaryan31704/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Aaryan31704/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aaryan31704/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/Aaryan31704/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/Aaryan31704/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
