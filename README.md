@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aaryan31704/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aaryan31704/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aaryan31704/Leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Aaryan31704/Leetcode/tree/master/0441-arranging-coins) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aaryan31704/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aaryan31704/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aaryan31704/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aaryan31704/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aaryan31704/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aaryan31704/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aaryan31704/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
